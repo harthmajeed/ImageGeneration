@@ -16,10 +16,10 @@ Generated Image
 Cats
 ![image](https://user-images.githubusercontent.com/96930162/148003968-f3d67e4b-55c7-40bc-86fd-9308d60a4b96.png)
 
-![image](https://user-images.githubusercontent.com/96930162/148004073-7c4cc998-90cb-4835-8e36-1a627c322077.png)
+![image](https://user-images.githubusercontent.com/96930162/148004280-09d7bd73-09f8-40fd-8f48-5875460a1ad5.png)
 
 And somehow we produced a fire kitty
-![image](https://user-images.githubusercontent.com/96930162/148004114-49ac7097-2060-4cf0-9dc9-2d27b8934a23.png)
+![image](https://user-images.githubusercontent.com/96930162/148004218-f60e95e9-0b59-4ace-ae19-495731e27f5b.png)
 
 The documenation (pdf) uploaded is a short presenation slide, this will contain an overview of the project.
 
